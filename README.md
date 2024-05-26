@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **anything that related to manual and automation testing, programming, new technologies.**
 
-- 📫 You can reach me at **imransarker902@gmail.com**
+- 📫 You can reach me at **imran.sarker.3006@gmail.com**
 
 - 📄 Know about my experiences [https://cutt.ly/XCy94BL](https://drive.google.com/file/d/17J9PK8j1RN6mLlptrTDuko_snbbEsady/view?usp=sharing)
 
