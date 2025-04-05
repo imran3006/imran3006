@@ -18,40 +18,17 @@ the highest quality and reliability of software products.**
 
 - 📄 Know about my experiences **[https://cutt.ly/XCy94BL](https://drive.google.com/file/d/1qiBEmq2KbVaIBrfKPSq9eIAJwn4oN6jB/view?usp=sharing)**
 
-<h3 align="left">Experiences:</h3>
+<h3 align="left">Technical Skills:</h3>
 
- - Company: TechMonstar Limited,
-   -  Current Position: SQA Engineer
-   -  Job Period: December 2024 - Present
-
- - Contribution on Web and Test Automation based projects:
-    - TestTalents – Web (Manual and Automation - E2E, Functional) – Candidate Assessment System 
-    - BeeVendor - Web (Manual and API testing) – Multivendor E-Commerce Platform
-
- - Company: Brotecs Technologies Ltd.
-   -  Position: Software QA Engineer level - II
-   -  Job Period: September 2022-December 2024
-
- - Contribution on Web based projects:
-   -  NEXT Cabin Router - Next Generation Smart Cabin Router
-   -  AeroSphere Suite – Ground Operating server
-   - Cabin IPPBX - Advanced call-handling platform
-   - AGCG - Aeronautical Ground Communication Gateway
-   - X2meeting – Online Meeting Platform
-   - Minu Monitor – AI powered Health Monitoring System
-    
-- Contribution on APP based projects:
-   -  Aerov: Aerov iOS || Aerov Android
-   - GoDirect Voice: Godirect voice iOS || Godirect voice Android
-   - Falcon Talk: Falcontalk iOS || Falcontalk Android
-   - NEXT Cabin Tools: Cabin-tools iOS || Cabin-tools Android
-   - Phoring: Phoring iOS || Phoring Android
-   - Minu monitor: Minu Monitor iOS || Minu Monitor Android
-    
-- Contribution on Test Automation projects:
-   - API Test Automation: Prepare and execute API Automation script for Cabin IP-PBX
-   - Functional and E2E Test Automation: Prepare UI Automation script for Cabin IPPBX using Playwright
-
+ - API testing using Postman, Playwright.
+ - Web Automation: Playwright, Selenium, Cypress
+ - Mobile App Automation: Appium Server
+ - Framework: TestNG, Junit
+ - Operating System: Linux, Windows-10,11, Mac Os
+ - Languages: Java, JavaScript.
+ - CI/CD: Jenkins, Github Action.
+ - Project Management Tool: Jira, Redmine
+ - MySQL,Git, Github, Linux commands
 
 
 <h3 align="left">Personal Projects:</h3>
