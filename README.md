@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Imran Sarker</h1>
 <h3 align="center">A passionate Software Quality Assurance Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" /></a> </p>
 
-I bring over 3 years of hands-on experience as a Software QA Engineer with expertise in testing a wide range
+
+**I bring over 3 years of hands-on experience as a Software QA Engineer with expertise in testing a wide range
 of software applications, including mobile apps, desktop software, and web applications and ensuring
 software quality, with a strong understanding of SDLC and agile methodologies. I am dedicated to ensuring
-the highest quality and reliability of software products.
+the highest quality and reliability of software products.**
 
 - 🔭 I’m currently working on **E-commerce project - Beevendor**
 
@@ -16,8 +16,46 @@ the highest quality and reliability of software products.
 
 - 📫 You can reach me at **imran.sarker.3006@gmail.com**
 
-- 📄 Know about my experiences [https://cutt.ly/XCy94BL](https://drive.google.com/file/d/1qiBEmq2KbVaIBrfKPSq9eIAJwn4oN6jB/view?usp=sharing)
+- 📄 Know about my experiences **[https://cutt.ly/XCy94BL](https://drive.google.com/file/d/1qiBEmq2KbVaIBrfKPSq9eIAJwn4oN6jB/view?usp=sharing)**
 
+<h3 align="left">Experiences:</h3>
+
+ - Company: TechMonstar Limited,
+   -  Current Position: SQA Engineer
+   -  Job Period: December 2024 - Present
+
+ - Contribution on Web and Test Automation based projects:
+    - TestTalents – Web (Manual and Automation - E2E, Functional) – Candidate Assessment System 
+    - BeeVendor - Web (Manual and API testing) – Multivendor E-Commerce Platform
+
+ - Company: Brotecs Technologies Ltd.
+   -  Position: Software QA Engineer level - II
+   -  Job Period: September 2022-December 2024
+
+ - Contribution on Web based projects:
+   -  NEXT Cabin Router - Next Generation Smart Cabin Router
+   -  AeroSphere Suite – Ground Operating server
+   - Cabin IPPBX - Advanced call-handling platform
+   - AGCG - Aeronautical Ground Communication Gateway
+   - X2meeting – Online Meeting Platform
+   - Minu Monitor – AI powered Health Monitoring System
+    
+- Contribution on APP based projects:
+   -  Aerov: Aerov iOS || Aerov Android
+   - GoDirect Voice: Godirect voice iOS || Godirect voice Android
+   - Falcon Talk: Falcontalk iOS || Falcontalk Android
+   - NEXT Cabin Tools: Cabin-tools iOS || Cabin-tools Android
+   - Phoring: Phoring iOS || Phoring Android
+   - Minu monitor: Minu Monitor iOS || Minu Monitor Android
+    
+- Contribution on Test Automation projects:
+   - API Test Automation: Prepare and execute API Automation script for Cabin IP-PBX
+   - Functional and E2E Test Automation: Prepare UI Automation script for Cabin IPPBX using Playwright
+
+
+
+<h3 align="left">Personal Projects:</h3>
+https://github.com/imran3006?tab=repositories
 
 
 <h3 align="left">Connect with me:</h3>
